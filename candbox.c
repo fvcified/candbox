@@ -340,7 +340,7 @@ int main(void)
 
     printf("Hello, %s", fullName);
     
-    if(user.level > 1000)
+    if(user.level > 999)
     {
         exit(0);
     }
