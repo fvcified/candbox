@@ -1,0 +1,5 @@
+Username : User
+Age      : 0
+Level    : 0
+Warnings : 0
+Rank     : VIP
