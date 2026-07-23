@@ -45,9 +45,7 @@ Run the program:
 ```
 
 ## Note
-Compiler configuration and setup guide can be found in this repository below:
-
--> [click here](https://github.com/fvcified/compile_and_run_c-cpp.git)
+Compiler configuration and setup guide can be found in this repository -> [click here](https://github.com/fvcified/compile_and_run_c-cpp.git)
 
 This repository is used for practice, experimentation, and learning core C programming concepts.
 
