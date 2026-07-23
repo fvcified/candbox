@@ -22,7 +22,9 @@ gcc candbox.c -o candbox
 ```
 
 ## Note
-Compiler configuration and setup guide can be found in this repository: [compile_and_run_c-cpp](https://github.com/fvcified/compile_and_run_c-cpp.git)
+Compiler configuration and setup guide can be found in this repository below
+<br />
+-> [compile_and_run_c-cpp](https://github.com/fvcified/compile_and_run_c-cpp.git)
 
 This repository is used for practice, experimentation, and learning core C programming concepts.
 
