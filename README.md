@@ -28,7 +28,7 @@ candbox/
 ├─ file_utils.c
 ├─ main.c
 ├─ user.c
-├─ user.H
+├─ user.h
 └─ user.txt
 ```
 
