@@ -20,14 +20,16 @@ A personal sandbox for learning and experimenting with C programming.
 
 ```text
 candbox/
-├─ main.c
-├─ user.c
-├─ user.h
+├─ .gitignore
+├─ README.md
 ├─ demos.c
 ├─ demos.h
-├─ file_utils.c
 ├─ file_utils.h
-└─ README.md
+├─ file_utils.c
+├─ main.c
+├─ user.c
+├─ user.H
+└─ user.txt
 ```
 
 ## Compile and Run
