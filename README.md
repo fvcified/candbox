@@ -27,10 +27,14 @@ gcc candbox.c -o candbox
 ./candbox
 ```
 
-## Compiler Setup
+## Setup and Notes
 
 Compiler configuration and setup guide can be found in this repository: [compile_and_run_c-cpp](https://github.com/fvcified/compile_and_run_c-cpp.git)
 
-## Notes
-
 This repository is used for practice, experimentation, and learning core C programming concepts.
+
+<br>
+
+## ⚠️ Disclaimer: _School assignment purposes only. All sources included._
+
+---
