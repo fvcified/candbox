@@ -34,13 +34,13 @@ candbox/
 
 ## Compile and Run
 
-Compile all source files:
+Compile all source files
 
 ```bash
 gcc *.c -o candbox
 ```
 
-Run the program:
+Run the program
 
 ```bash
 ./candbox
