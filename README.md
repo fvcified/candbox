@@ -48,10 +48,7 @@ Run the program:
 ```
 
 ## Note
-<<<<<<< HEAD
 
-=======
->>>>>>> a2fb4012098155577d98f8d41f953157f493b33b
 Compiler configuration and setup guide can be found in this repository -> [click here](https://github.com/fvcified/compile_and_run_c-cpp.git)
 
 This repository is used for practice, experimentation, and learning core C programming concepts.
