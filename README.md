@@ -22,6 +22,8 @@ A personal sandbox for learning and experimenting with C programming.
 candbox/
 ├─ .git
 ├─ .gitignore
+├─ .gitignore
+├─ README.md
 ├─ demos.c
 ├─ demos.h
 ├─ file_utils.c
@@ -48,7 +50,10 @@ Run the program:
 ```
 
 ## Note
+<<<<<<< HEAD
 
+=======
+>>>>>>> a2fb4012098155577d98f8d41f953157f493b33b
 Compiler configuration and setup guide can be found in this repository -> [click here](https://github.com/fvcified/compile_and_run_c-cpp.git)
 
 This repository is used for practice, experimentation, and learning core C programming concepts.
