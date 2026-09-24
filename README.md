@@ -22,7 +22,6 @@ A personal sandbox for learning and experimenting with C programming.
 candbox/
 ├─ .git
 ├─ .gitignore
-├─ README.md
 ├─ demos.c
 ├─ demos.h
 ├─ file_utils.c
